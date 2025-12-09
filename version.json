@@ -1,11 +1,11 @@
 {
   "android": {
-    "latestVersion": "1.1.4",
+    "latestVersion": "1.1.5",
     "minimumVersion": "1.1.4",
     "storeUrl": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.myzulu"
   },
   "ios": {
-    "latestVersion": "1.1.4",
+    "latestVersion": "1.1.5",
     "minimumVersion": "1.1.4",
     "storeUrl": "https://apps.apple.com/my/app/myzulu-health/id6752282116"
   }
